@@ -4,4 +4,4 @@
 - 🏢 Junior Web Developer (Full Stack) [@Venicecom](https://www.venicecom.it/), in Venice
 - 🧰 I build with: `NestJs`, `Express`, `Typescript`, `Angular`, `Bootstrap` ...
 - ⚡ I enjoy hiking, travel and playing soccer :)
-- 📫 Reach out to me: matteotromb-dev@gmail.com
+- 📫 Reach out to me: matteotromb@gmail.com
